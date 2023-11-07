@@ -1,0 +1,22 @@
+.btn {
+    padding: 10px;
+    font-size: 100px;
+    border: none;
+    background-color: blueviolet ;
+    color: black;
+    cursor: pointer;
+    border-color: rgb(34, 32, 32);
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px coral;
+    transition: all 0,3s ease;
+
+}
+.btn {
+    scale: 1.2em;;
+    font-weight:bolder;
+    background-color: blueviolet;
+    color: black;
+    transform:trans2ate(-5px);
+    box-shadow: 30px 30px 30px cornflowerblue;
+    
+}
